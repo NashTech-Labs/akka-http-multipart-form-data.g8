@@ -1,5 +1,5 @@
 # akka-http-multipart-form-data
-A basic application to handle multipart form data in akka-htttp
+A basic application to handle multipart form data in akka-http
 
 ### Run application
 sbt run
