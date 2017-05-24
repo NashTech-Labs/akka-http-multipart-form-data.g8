@@ -12,7 +12,7 @@ After start the application hit "http://localhost:9000/process/multipart/data" i
 
 Template license
 ----------------
-Written in 2016 by Knoldus Software LLP [http://www.knoldus.com/home.knol]
+Written in 2016 by [Knoldus Software LLP](http://www.knoldus.com/home.knol)
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
