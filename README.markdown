@@ -1,10 +1,5 @@
 A [Giter8][g8] template to handle multipart form data in akka-http !
 
-About
-----------------
-# akka-http-multipart-form-data
-A basic application to handle multipart form data in akka-http
-
 ### Run application
 sbt run
 
@@ -17,8 +12,7 @@ After start the application hit "http://localhost:9000/process/multipart/data" i
 
 Template license
 ----------------
-Written in 2016 by Knoldus Software LLP
-[other author/contributor lines as appropriate]
+Written in 2016 by Knoldus Software LLP [http://www.knoldus.com/home.knol]
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
